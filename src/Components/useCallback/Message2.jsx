@@ -1,4 +1,4 @@
-import React from "react";
+import React, { memo } from "react";
 
 const Message2 = ({ count, onHandleCount }) => {
   console.log("rendering message");
@@ -11,4 +11,4 @@ const Message2 = ({ count, onHandleCount }) => {
   );
 };
 
-export default Message2;
+export default memo(Message2);
