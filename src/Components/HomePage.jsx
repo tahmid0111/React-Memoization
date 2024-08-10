@@ -18,7 +18,7 @@ export default function HomePage() {
       <h1>{count}</h1>
       <button onClick={increaseFunc}>Increase</button>
       <button onClick={decreaseFunc}>Increase</button>
-      <Message />
+      <Message count={count} />
     </div>
   );
 }
