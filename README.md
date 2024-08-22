@@ -1,8 +1,44 @@
-# React + Vite
+# <div align="center">React-Memoization 😊</div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<div align="center">
+  
+  [![portfolio](https://img.shields.io/badge/my_portfolio-FFFF00?style=for-the-badge&logo=ko-fi&logoColor=black)](https://tahmid0111.github.io/Portfolio_Website_html5/)     [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tahmid-emam/)     [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/tahmid_emam)
+  
+</div>
 
-Currently, two official plugins are available:
+# _Performance Optimization_
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- ### Performance Optimization plays a vital role in our apps.
+
+- ### We should focus on topics like Memoization, Lazy-loading, Virtualization, Debouncing and Throttling.
+
+# _Other Repositories links about Performance Optimization_
+
+## [Image-gallery](https://github.com/tahmid0111/Image-Gallery)
+## [React-Lazy-loading](https://github.com/tahmid0111/React_Lazy-loading)
+
+# Getting Started
+
+### To get started with this quick start pack, follow these steps:
+
+## 1. Clone the Repository:
+
+```bash
+git clone https://github.com/tahmid0111/React-Memoization.git
+```
+## 2. Install Dependencies:
+
+```bash
+cd React-Memoization
+npm install
+```
+
+## 5. Start the Server:
+
+```bash
+npm run dev
+```
+
+
+## Have a cup of coffee and start Coding😊😊
+
