@@ -1,4 +1,5 @@
 import './App.css'
+import HomePage5 from './Components/infiniteScroll/HomePage5'
 import HomePage from './Components/reactMemo/HomePage'
 import HomePage2 from './Components/useCallback/HomePage2'
 import HomePage3 from './Components/useMemo/HomePage3'
@@ -11,7 +12,8 @@ function App() {
       {/* <HomePage /> */}
       {/* <HomePage2 /> */}
       {/* <HomePage3 /> */}
-      <HomePage4 />
+      {/* <HomePage4 /> */}
+      <HomePage5 />
     </>
   )
 }
