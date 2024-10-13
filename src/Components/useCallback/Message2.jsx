@@ -5,7 +5,6 @@ const Message2 = ({ count, onHandleCount }) => {
   return (
     <div>
       <h1>{count}</h1>
-
       <button onClick={onHandleCount}>Increment</button>
     </div>
   );

@@ -5,7 +5,8 @@ const HomePage3 = () => {
 
   const countNumber = useMemo(() => {
     let myNumber = 5;
-    for (let index = 0; index < 9000000; index++) {
+    // add three more zero when needed
+    for (let index = 0; index < 900000; index++) {
       myNumber += 1;
     }
     return myNumber;
@@ -15,7 +16,6 @@ const HomePage3 = () => {
     <div>
       <h1>{count}</h1>
       <button onClick={() => setCount(count + 2)}>Increment</button>
-      {/* {countNumber} */}
       <h1>{countNumber}</h1>
     </div>
   );

@@ -3,7 +3,6 @@ import Message from "./Message";
 
 export default function HomePage() {
   const [count, setCount] = useState(0);
-  
 
   const increaseFunc = () => {
     setCount(count + 1);
